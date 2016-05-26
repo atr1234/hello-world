@@ -1,2 +1,2 @@
 # hello-world
-to sahre ideas
+to share ideas
